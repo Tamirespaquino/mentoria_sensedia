@@ -1,2 +1,2 @@
-# mentoria_sensedia
-Projeto desenvolvido na mentoria de carreira da Sensedia.
+# Reposit
+Repositório contendo os desafios do Bootcamp Dio-Santander de Java e Angular.
